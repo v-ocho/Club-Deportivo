@@ -10,6 +10,7 @@ namespace ClubDeportivo
     {
         static void Main(string[] args)
         {
+        
         }
     }
 }
